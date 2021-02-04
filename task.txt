@@ -1,0 +1,50 @@
+Q1. Write a function in python to find the Even values from dataset accepted [54,48,80] values
+    dataset = [44, 45, 46, 47, 48, 49, 50, 51, 52, 53,58,78, 79, 80,34,34,34,45,45]
+
+
+Q2. Write a function in python to find 2rd maximum values from dataset
+    dataset = [20,67,3,2.6,7,74,2.8,90.8,52.8,4,3,2,5,7]
+
+
+Q3. Suppose you want to purchase one mobile phone from mobil shop perform following operations with the help of list tuple,dictionary
+
+	a. Display list of mobile phone with price
+	b. Calculate Price of according to total no of mobile phone purchased by customer
+	c. Display updated list of Mobile phone with price
+
+
+Q4. write a function in python to remove duplicates from a list.
+    number = [23,45,67,78,'Hello',34.34,34j,'Python',34,45.6,'ML',78,'Hello',34.34,34j]
+
+
+Q5. write a function in python to sort a list of numbers without using built-in functions
+    dataset = [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,79, 80,34,34,34,45,45]
+
+Q6. Write a program that allows the user to enter any number of decimal numbers.
+    Then the program should print the three highest numbers sorted by the highest number first.
+    When entering the numbers, you must be able to type 'x' to end the entry.
+
+	Exemple of how it may look is:
+	Give a decimal number: 3
+	Give a decimal number: 2
+	Give a decimal number 12
+	Give a decimal number: 88
+	Three highest number are:
+	----output----
+	88
+	12
+	3
+
+Q7. Write a Python program to guess a number between 1 to 15
+    Note : User is prompted to enter a guess. If the user guesses wrong then the prompt appears again until the 
+           guess is correct, on successful guess, user will get a "Well guessed!" message, and the program will exit.
+
+  
+Output:
+
+>>>Enter a guess number. 6
+   Try one more time 
+>>>Enter a guess number. 9
+   Try one more time 
+>>>Enter a guess number. 10
+   Well guessed!
