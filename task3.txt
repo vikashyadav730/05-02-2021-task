@@ -1,0 +1,91 @@
+
+                          Note: Solve all Question without using (Max,Sorted,Reverse) Methods
+
+
+1). Create a function called format_percentage() which takes in a float as input and returns
+    a string containing the float expressed as a percentage, with two decimal places. 
+
+For example:
+    format_percentage(0.33477) should return "33.47%".
+
+2). Design and write a program consisting of the following functions:
+
+    main() – gets the current product price from the user, and display the discounted price correctly formatted as currency
+    calc_discount(price) – receives a price, applies a 25% discount and returns the discounted price
+    format_currency(number) – receives a number and returns it as a string with a $ in front of it and two decimal places.
+
+    Input:
+	>>> Enter the price: 200
+    Output:
+        >>> $150.00
+
+3). Highest Score
+    The score of N players is given and you have to find the highest score of an individual.
+
+	Input Format
+	The first line of input consists of number of players, N
+	The second line of input consist of N separated scores of players
+
+	Sample TestCase
+	Input
+
+	5
+	12
+	14
+	19
+	67
+	89
+
+	Output
+
+	89
+
+
+4). Order
+    There are N members of a committee. A list is to made in alphabetical order. Print the name in alphabetical order.
+
+	Input Format
+	The first line of input consist of number of members, N.
+	Next N lines consist of name of members.
+	Sample TestCase
+
+	Input
+
+	6
+	Vikash
+	Rahul
+	Alia
+	Sushma
+	Faruk
+	Varun
+
+	Output
+
+	Alia
+	Faruk
+	Rahul
+	Sushma
+	Varun
+	Vikash
+
+
+5). Second Maximum
+    The marks of Ranu are given in N subjects and you have to tell him the second maximum marks he has got. Marks may or may not duplicate Print the second maximum marks Ranu has got.
+    Note: 1). Solve using appropriate inbuilt Function
+	  2). Solve without using any inbuilt in function
+	
+    Input Format:
+
+	The first line of input consist of number of subjects, N.
+	The second line of input consist of N separated marks.
+	
+    *Sample TestCase *
+
+	input
+
+	5
+	3 9 9 5 4
+
+	Output
+
+	5
