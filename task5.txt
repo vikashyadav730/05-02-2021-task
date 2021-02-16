@@ -1,0 +1,34 @@
+1). Write a Python program to compute element-wise sum of given tuples.
+
+	Input:
+ 
+	[(1, 2, 3, 4),
+	(3, 5, 2, 1),
+	(2, 2, 3, 1)]
+ 
+	Output:
+ 
+	(6, 9, 8, 6)
+
+2). Average Score
+There are N players with their score in last 3 matches. You will have to create a dictionary and output the average score of the player asked upto 2 decimal places Print the average score of the player asked.
+
+	Input Format
+
+	The first line of input consist of number of players, N
+	Next N lines consists of player name and their score in last three matches space separately.
+	The last line of the input consist of the player in question.
+
+Sample TestCase
+
+	input
+
+	3
+	Warner 150 100 120
+	Kohli 10 30 20
+	Rohit 60 80 40
+	Kohli
+
+	output
+
+	20.00
