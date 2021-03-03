@@ -11,8 +11,10 @@
 
 2.) Write a Python program to calculate the average value of the numbers in a given tuple of tuples.
 
-    Original Tuple:
+    Input Tuple:
           ((10, 10, 10, 12), (30, 45, 45), (81,32), (1, 2, 3, 4))
+    Output:
+ 	  (30.5, 22.25, 19.333333333333332, 8.0)
 
 3.) Write a Python program to replace last value of tuples in a list. Go to the editor  
 
@@ -31,4 +33,4 @@
 
 	Output:
 
-	(6, 9, 8, 6)
+	(139, 42, 45)
